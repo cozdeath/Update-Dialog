@@ -1,6 +1,6 @@
 {
 "version": "2.1",
-"title": "Update Available!",
+"title": "Update",
 "NewVersion": "2.1",
 "downloadLink": "https://telegram.me/lizamods",
 "changeLogMessage": "- Bug fixes
