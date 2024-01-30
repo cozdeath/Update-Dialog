@@ -5,7 +5,7 @@
 "downloadLink": "https://telegram.me/lizamods",
 "changeLogMessage": "- Bug fixes
 - Update aplikasi anda untuk menikmati fitur terbaru 😁👍",
-"negativebtn": "Later",
-"positivebtn": "Update Now",
+"negativebtn": "Nanti",
+"positivebtn": "Update",
 "changelogTitle": "Changelogs"
 }
