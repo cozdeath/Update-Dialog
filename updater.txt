@@ -1,18 +1,13 @@
 {
-  "fnmods_update": [
-    {
- "version":"9.70",
- "title":"Update Disponible",
- "description":"RewhasApp Oficial V9.65
+"version": "2.1",
+"title": "Update Available!",
+"NewVersion": "2.1",
+"downloadLink": "https://telegram.me/lizamods",
+"changeLogMessage": "- Bug fixes
+- Performance improvements
 
-Base: 2.23 1.76
-
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-
-Nuevo Systema de Actualización 
-
- Actualización AntiBaneo disponible ",
-"download":"https://youtu.be/rY2otd2NacA"
-}
-  ]
+A new update is available for the app. Please update for the latest features and improvements.",
+"negativebtn": "Later",
+"positivebtn": "Update Now",
+"changelogTitle": "Changelogs"
 }
